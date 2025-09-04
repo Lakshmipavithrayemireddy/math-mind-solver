@@ -8,5 +8,6 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-
+## Note 
+It's a front-end application only
 
